@@ -1,0 +1,29 @@
+CITYS = [{
+    'city_name':'北京',
+    'url_areas':[
+        'https://bj.fang.ke.com/loupan/dongcheng/',
+        'https://bj.fang.ke.com/loupan/xicheng/',
+        'https://bj.fang.ke.com/loupan/chaoyang/',
+        'https://bj.fang.ke.com/loupan/haidian/',
+        'https://bj.fang.ke.com/loupan/dongcheng/',
+        'https://bj.fang.ke.com/loupan/dongcheng/',
+        'https://bj.fang.ke.com/loupan/dongcheng/',
+        'https://bj.fang.ke.com/loupan/dongcheng/',
+        'https://bj.fang.ke.com/loupan/dongcheng/',
+        'https://bj.fang.ke.com/loupan/dongcheng/',
+        'https://bj.fang.ke.com/loupan/dongcheng/',
+        'https://bj.fang.ke.com/loupan/dongcheng/',
+        'https://bj.fang.ke.com/loupan/dongcheng/',
+        'https://bj.fang.ke.com/loupan/dongcheng/',
+        'https://bj.fang.ke.com/loupan/dongcheng/',
+        'https://bj.fang.ke.com/loupan/dongcheng/',
+        'https://bj.fang.ke.com/loupan/dongcheng/',
+        'https://bj.fang.ke.com/loupan/dongcheng/',
+        'https://bj.fang.ke.com/loupan/dongcheng/',
+        'https://bj.fang.ke.com/loupan/dongcheng/',
+        'https://bj.fang.ke.com/loupan/dongcheng/',
+        'https://bj.fang.ke.com/loupan/dongcheng/',
+        'https://bj.fang.ke.com/loupan/dongcheng/',
+
+    ]
+}]
